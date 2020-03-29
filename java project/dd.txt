@@ -1,0 +1,22 @@
+
+*************************************************
+
+Logged In AT Tue Nov 26 00:32:41 IST 2019
+PNR NO. - 1
+NAME - gg
+AGE - 33
+PHONE NO - 34645764
+Train No - 1 l- Orient Express FROM Ahmedabad TO Delhi
+Amount = Rs. 499.0
+PNR NO. - 2
+NAME - ss
+AGE - 11
+PHONE NO - 23453
+Train No - 1 l- Orient Express FROM Ahmedabad TO Delhi
+Amount = Rs. 499.0
+PNR NO. - 3
+NAME - hh
+AGE - 234
+PHONE NO - 23465234
+Train No - 1 l- Orient Express FROM Ahmedabad TO Delhi
+Amount = Rs. 499.0
